@@ -1,7 +1,7 @@
 {
   "/api/settings/route": "app/api/settings/route.js",
-  "/api/answers/route": "app/api/answers/route.js",
   "/api/questions/route": "app/api/questions/route.js",
+  "/api/answers/route": "app/api/answers/route.js",
   "/page": "app/page.js",
   "/test/page": "app/test/page.js",
   "/test/questions/page": "app/test/questions/page.js",
