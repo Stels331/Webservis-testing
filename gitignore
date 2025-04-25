@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+.next/
+
+# Build outputs
+out/
+dist/
+
+# Local environment variables and secrets
+.env
+.env.*
+*.log
+credentials.json
+google-service-account.json
+settings.json
+
+# OS-specific files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
